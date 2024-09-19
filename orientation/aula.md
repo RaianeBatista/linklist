@@ -77,3 +77,7 @@ Todos os elementos HTML serão considerados em uma caixa, assim como uma caixa d
 - Caixas possuem determinadas propriedades </br>
 Conteúdo, largura, altura, borda, preenchimento (espaço interno), espaçamento (espaço externo)
 
+### Ensinar o computador
+
+- Algoritmos: Sequênica de passos, con
+
